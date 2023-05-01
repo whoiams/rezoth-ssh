@@ -81,7 +81,7 @@ EOF
 cat << EOF > /etc/banner
 <br>
 <font>ೋ˚❁ೃೀ๑۩۞۩๑ೃೀ❁ೋ˚</font><br>
-<font>┊┊┊┊ <b><font color="#ff5079">&nbsp;Rezoth</font>™</b></font><br>
+<font>┊┊┊┊ <b><font color="#ff5079">&nbsp;OSHADA</font>™</b></font><br>
 <font>┊┊┊✧ </font><br>
 <font>┊┊✦ <font color="#A52A2A">&nbsp;NO HACKING !!!</font></font><br>
 <font>┊✧ <font color="#8A2BE2">&nbsp;NO CARDING !!!</font></font><br>
@@ -92,6 +92,7 @@ cat << EOF > /etc/banner
 <font>✦  · </font><br>
 <b>&nbsp;Powered by <font color="#ff5079">Rezoth™</font></b><br>
 <font>     .  +  · </font>
+<font> . <font color="#FF7F50">&nbsp;HEY Bitch !!!</font></font>
 EOF
 
 #Configuring stunnel
