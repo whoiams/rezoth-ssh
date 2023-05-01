@@ -90,9 +90,14 @@ cat << EOF > /etc/banner
 <font> .  +  · · <font color="#33a6ff"></font></font><br>
 <font>    ✹   . <font color="#008080">&nbsp;Your privacy is our number one priority</font></font><br>
 <font>✦  · </font><br>
-<b>&nbsp;Powered by <font color="#ff5079">Rezoth™</font></b><br>
+<b>&nbsp;Powered by <h1> <font color="#ff5079">ubetatta</font></h1></b><br>
 <font>     .  +  · </font>
 <font> . <font color="#FF7F50">&nbsp;HEY Bitch !!!</font></font>
+<font> . <font color="#FF7F50">&nbsp;HEY Bitch !!!</font></font>
+<font> . <font color="#FF7F50">&nbsp;HEY Bitch !!!</font></font>
+<font> . <font color="#FF7F50">&nbsp;HEY Bitch !!!</font></font>
+<font> . <font color="#FF7F50">&nbsp;HEY Bitch !!!</font></font>
+<font> 
 EOF
 
 #Configuring stunnel
